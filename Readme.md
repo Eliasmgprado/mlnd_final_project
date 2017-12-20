@@ -13,7 +13,7 @@ O algoritmo será desenvolvido para executar uma tarefa de classificação multi
 O projeto está disponivel para download no [Github](https://github.com/Eliasmgprado/mlnd_final_project).Para clonar o projeto use o comando abaixo.
 
 ```bash
-git clone https://github.com/Eliasmgprado/mlnd_final_project
+$git clone https://github.com/Eliasmgprado/mlnd_final_project
 ```
 
 ### Prerequisitos
@@ -31,10 +31,10 @@ git clone https://github.com/Eliasmgprado/mlnd_final_project
 Todos estes modulos podem ser instalados utilizando o pip ou conda
 
 ```bash
-pip intall pandas numpy seaborn missigno matplotlib sklearn xgboost mlxtend
+$pip intall pandas numpy seaborn missigno matplotlib sklearn xgboost mlxtend
 ```
 ```bash
-conda intall pandas numpy seaborn missigno matplotlib sklearn xgboost mlxtend
+$conda intall pandas numpy seaborn missigno matplotlib sklearn xgboost mlxtend
 ```
 
 ### Dados
