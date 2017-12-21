@@ -8,6 +8,8 @@ Neste trabalho é proposto a avaliação da utilização dos métodos de aprendi
 
 O algoritmo será desenvolvido para executar uma tarefa de classificação multi-label, recebendo como entrada dados estruturados, contendo as análises químicas de amostras de rocha, e retornando como saída o nome da rocha com a maior probabilidade (similaridade) dentre os vários nomes possíveis.
 
+[Link para proposta do projeto final](https://review.udacity.com/#!/reviews/878486)
+
 ### Repositorio
 
 O projeto está disponivel para download no [Github](https://github.com/Eliasmgprado/mlnd_final_project). Para clonar o projeto use o comando abaixo.
