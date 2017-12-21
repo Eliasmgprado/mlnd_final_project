@@ -71,8 +71,8 @@ Segue link para baixar os arquivos utilizados:
 
 Os Arquivos principais do projeto são:
 
-* ./Projeto_Final_EML.ipynb - [jupyter notebook](http://jupyter.org/) do projeto 
-* ./Projeto_final.pdf - Relatório do projeto
+* [Projeto_Final_EML](https://github.com/Eliasmgprado/mlnd_final_project/blob/master/Projeto_Final_EML.ipynb) - [jupyter notebook](http://jupyter.org/) do projeto 
+* [Projeto_final](https://github.com/Eliasmgprado/mlnd_final_project/blob/master/Projeto_final.pdf) - Relatório do projeto
 
 ### Autor
 
