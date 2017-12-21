@@ -10,7 +10,7 @@ O algoritmo será desenvolvido para executar uma tarefa de classificação multi
 
 ### Repositorio
 
-O projeto está disponivel para download no [Github](https://github.com/Eliasmgprado/mlnd_final_project).Para clonar o projeto use o comando abaixo.
+O projeto está disponivel para download no [Github](https://github.com/Eliasmgprado/mlnd_final_project). Para clonar o projeto use o comando abaixo.
 
 ```bash
 $git clone https://github.com/Eliasmgprado/mlnd_final_project
